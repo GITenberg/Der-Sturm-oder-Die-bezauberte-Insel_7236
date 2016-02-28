@@ -1,0 +1,49 @@
+_repo: Der-Sturm-oder-Die-bezauberte-Insel_7236
+alternative_title: The Tempest. German
+contributor:
+  translator:
+    agent_name: Wieland, Christoph Martin
+    aliases:
+    - Wieland, Cristoph Martin
+    - Viland, Kristof Martin
+    - Wieland, Christian M. (Christian Martin)
+    - Wieland, C. M. (Christoph Martin)
+    - Viland, K. M. (Kristof Martin)
+    - Wieland, Christophorus Martinus
+    birthdate: 1733
+    deathdate: 1813
+    gutenberg_agent_id: '845'
+    url: http://www.gutenberg.org/2009/agents/845
+    wikipedia: http://en.wikipedia.org/wiki/Christoph_Martin_Wieland
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: Translation of The Tempest
+gutenberg_bookshelf: DE Drama
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7236'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Magicians -- Drama'
+- !lcsh 'Fathers and daughters -- Drama'
+- !lcc 'PR'
+- !lcsh 'Political refugees -- Drama'
+- !lcsh 'Islands -- Drama'
+- !lcsh 'Tragicomedy'
+- !lcsh 'Spirits -- Drama'
+- !lcsh 'Shipwreck victims -- Drama'
+title: Der Sturm, oder Die bezauberte Insel
+url: http://www.gutenberg.org/ebooks/7236
